@@ -52,13 +52,7 @@ nav ul li a
     
 
 }
-@media screen and (max-width:772px) {
 
-    header
-    {
-        height: auto;
-    }
-}
  img
 {
     border-radius: 10%;
