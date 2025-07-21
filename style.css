@@ -72,3 +72,7 @@ nav ul li a
 {
     color: #000;
 }
+.projects
+{
+    background-image: linear-gradient( white,rgba(0,0,0,0.5),white)  ;
+}
