@@ -6,6 +6,16 @@ body
 {
     overflow-x:hidden;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.container .row .col {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 header
 {
     background-image: url(bg-portfolio1.jpg);
