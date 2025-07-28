@@ -2,6 +2,10 @@
 {
     font-family: Segoe UI Light ;
 }
+body
+{
+    overflow-x:hidden;
+}
 header
 {
     background-image: url(bg-portfolio1.jpg);
